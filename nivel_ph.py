@@ -1,3 +1,5 @@
+# PH level compare 
+
 ph = int(input("ingrese ph: "))
 
 if ph > 7:

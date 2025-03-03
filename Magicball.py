@@ -1,4 +1,5 @@
 # The program will randomly select a number between 1 and 8 and then print the corresponding answer.
+
 import random
 question = input("Ask the magic 8 ball a question: ")
 answers = random.randint(1, 8)

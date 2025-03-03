@@ -1,3 +1,5 @@
+# Height and mone checker for a rollercoaster
+
 print("Ojo que tenes que se mayor a 137 cms de altura y tener mas de 10 creditos")
 altura = int(input("Ingrese altura: "))
 credito = int(input("cuantos creditos?: "))

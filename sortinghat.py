@@ -1,4 +1,4 @@
-#Harry Potter's Sorting Hat
+# Harry Potter's Sorting Hat
 Ravenclaw = 0
 Gryffindor = 0
 Hufflepuff = 0

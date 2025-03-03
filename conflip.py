@@ -1,3 +1,5 @@
+# Coin flip simulator to introduce random
+
 import random
 
 num = random.randint(0, 1)

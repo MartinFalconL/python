@@ -16,4 +16,4 @@ def encode (phrase, shift):
             cipher = cipher + char
     return  cipher   
 
-print(encode("Batman 20", 4))
+print(encode("", ))

@@ -14,6 +14,13 @@ def encode (phrase, shift):
             cipher = cipher + new_letter
         else:
             cipher = cipher + char
-    return  cipher   
+    return  cipher 
 
-print(encode("", ))
+print ("This program will encript a phrase using simple cycle ciphering")
+print("")
+
+#asking user for parameters (phrase and shift value)
+phrase = str(input("enter a phrase to encode: "))
+shift = int(input ("Enter shift Value: ")) 
+#show results
+print("Encoded phrase is: ", encode(phrase, shift))
